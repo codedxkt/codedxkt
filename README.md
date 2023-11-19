@@ -3,7 +3,7 @@
 - ♟️ How about a game of Chess?
 - 🌱 I’m currently learning Web Development!
 - 💞️ I’m looking to collaborate on HTML, CSS and JavaScript projects!
-- 📫 How to reach me mail me on my email or just DM me on Instagram or Twitter(X) - @codedxkt
+- 📫 How to reach me mail me on my email or just DM me on Instagram or Twitter(X) or Linkedin - @codedxkt
 
 <!---
 codedxkt/codedxkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
